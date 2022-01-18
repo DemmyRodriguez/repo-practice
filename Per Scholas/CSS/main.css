@@ -1,0 +1,57 @@
+		body{
+			background-color: rgb(194, 149, 145);
+			color: rgb(104, 63, 55);
+			margin-left: 40px;
+			margin-right: 40px;
+			margin-top: -30px
+		}
+		h2{
+			color: rgb(104, 63, 55);
+			text-decoration: underline rgb(125, 148, 181);
+			text-align: center;
+			letter-spacing: .1em;
+			font-family: "Sofia", sans-serif;
+		}
+		h3{
+			color: rgb(104, 63, 55);
+			text-align: center;
+		}
+		p{
+			color: rgb(104, 63, 55);
+		}
+		nav{
+			background-color: rgb(125, 148, 181);
+		}
+		#me{
+			color: #800020;
+		}
+		span{
+			font-size: 50pt;
+			font-family: "Sofia", sans-serif;
+		}
+		#FAQ{
+			background-color: rgb(125, 148, 181);
+		}
+		.ROW{
+			background-color: rgb(125, 148, 165);
+		}
+		span{
+			font-size: 50pt;
+			font-family: "Sofia", sans-serif;
+			letter-spacing: .1em;
+		}
+		.Jujutsu{
+			padding-left: 30px;
+		}
+		.Leek{
+			padding-bottom: 67px;
+			padding-left: 30px;
+		}
+		form{
+			text-align: center;
+			padding-bottom: 15px;
+			background-color: rgb(125, 148, 165);
+			font-style: cursive;
+			border-style: solid;
+			border-color: color: rgb(104, 63, 55);
+		}
